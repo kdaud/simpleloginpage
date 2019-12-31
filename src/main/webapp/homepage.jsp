@@ -5,6 +5,16 @@
 <head>
 <meta charset="UTF-8">
 <title>home page of gci contest</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+</style>
 </head>
 <body>
 <h1>Google Code-in 2019 with OpenMRS </h1>
